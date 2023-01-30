@@ -10,4 +10,4 @@ ticketsRouter
   .get("/types", getTicketsTypes)
   .get("", getTickets)
 
-export { ticketsRouter };
+export { ticketsRouter }
